@@ -3,7 +3,7 @@ Upstream-Name: dash-to-panel
 Source: https://github.com/wasta-linux/gnome-shell-extension-panel-osd
 
 Files: *
-Copyright: 2022
+Copyright: 2022 @hllvc
 License: GPL-2+
 
 Files: debian/*

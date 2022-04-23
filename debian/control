@@ -1,4 +1,4 @@
-Source: gnome-shell-extension-panel-osd
+Source: gnome-shell-extension-better-osd
 Section: gnome
 Priority: optional
 Maintainer: Nate Marti <nate_marti@sil.org>
@@ -10,9 +10,9 @@ Build-Depends:
 # meson,
 Standards-Version: 4.5.0
 Rules-Requires-Root: no
-Homepage: https://github.com/wasta-linux/gnome-shell-extension-panel-osd
+Homepage: https://github.com/wasta-linux/gnome-shell-extension-better-osd
 
-Package: gnome-shell-extension-panel-osd
+Package: gnome-shell-extension-better-osd
 Architecture: all
 Depends:
  gnome-shell (>= 3.33),
@@ -21,5 +21,5 @@ Depends:
  ${misc:Depends}
 Suggests:
  gnome-shell-extension-prefs,
-Description: Panel-OSD support for GNOME Shell
- This extension integrates panel-osd into GNOME Shell.
+Description: Better OSD support for GNOME Shell
+ This extension integrates Better OSD into GNOME Shell.
